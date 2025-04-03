@@ -6,7 +6,7 @@ EQUIPMENTS :
 requirement: 
 1) 3x nodeMCU  (1 into server 2 others will be client)
 2) making socket programming
-3) sensors : (water level measurement x2)
+3) sensors : here Have used XKC Y-26 liquid coil detector sensor.
 4) relay : for turning on the motor automatically.
 
 WORKFLOW:
